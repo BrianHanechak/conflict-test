@@ -1,0 +1,2 @@
+This is file 2
+Isn't file 2 awesome?
